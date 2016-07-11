@@ -10,4 +10,5 @@ Plug 'vim-erlang/vim-erlang-omnicomplete'
 Plug 'vim-erlang/vim-erlang-tags'
 Plug 'altercation/vim-colors-solarized'
 Plug 'pearofducks/ansible-vim'
+Plug 'fatih/vim-go'
 call plug#end()
